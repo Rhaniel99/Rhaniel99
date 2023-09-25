@@ -6,7 +6,7 @@
 </p>  
  
 <p align="left">
-<a href="https://github.com/GuillaumeFalourd">
+<a href="https://github.com/Rhaniel99">
   <img src="https://github.com/Rhaniel99/Rhaniel99/blob/main/github-metrics.svg"/>
 </a>
 </p>
