@@ -19,14 +19,15 @@ Além disso, você pode verificar meus repositórios aqui no GitHub para ver alg
 ![Snake animation](https://github.com/rhaniel99/rhaniel99/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhaniel99" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rhaniel99" />
 </p>  
  
 <p align="left">
-<a href="https://github.com/Rhaniel99">
-  <img src="https://github.com/Rhaniel99/Rhaniel99/blob/main/github-metrics.svg"/>
+<a href="https://github.com/rhaniel99">
+  <img src="https://github.com/rhaniel99/rhaniel99/blob/main/github-metrics.svg"/>
 </a>
 </p>
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
+#### 👉   _[Statistics](https://github.com/anuraghazra/github-readme-stats) ➕  [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ➕  [Snake animation](https://github.com/Platane/snk) ➕  [Metrics](https://github.com/marketplace/actions/metrics-embed)_
