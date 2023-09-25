@@ -2,32 +2,24 @@
 
 Olá! Sou Rhaniel, um entusiasta da tecnologia apaixonado por desenvolvimento de software. Tenho experiência em diversas tecnologias e estou constantemente buscando aprender e expandir meu conhecimento. Abaixo estão algumas das áreas em que tenho experiência:
 
-- **Node.js**: Tenho experiência sólida no desenvolvimento de aplicativos back-end e APIs utilizando Node.js. Adoro trabalhar com JavaScript e explorar as novas funcionalidades do ecossistema Node.
+### Linguagens e Ferramentas 🛠
 
-- **Banco de Dados**: Tenho conhecimento em bancos de dados relacionais, como PostgreSQL e MySQL, e posso criar esquemas, consultas complexas e otimizações.
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 
-- **Flutter**: Sou entusiasta do Flutter e posso criar aplicativos móveis multiplataforma atraentes e funcionais usando esta poderosa estrutura.
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![NodeJS](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs) ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 
-- **PHP (Laravel)**: Tenho experiência no desenvolvimento de aplicativos web usando Laravel, um dos melhores frameworks PHP disponíveis atualmente.
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-- **Python (Flask)**: Adoro trabalhar com Flask para criar aplicativos web leves e eficientes em Python.
-
-Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você tiver alguma pergunta, sugestão ou desejar colaborar em projetos interessantes, fique à vontade para entrar em contato comigo. Vamos construir coisas incríveis juntos!
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
 Além disso, você pode verificar meus repositórios aqui no GitHub para ver alguns dos projetos em que tenho trabalhado recentemente. Obrigado por visitar o meu perfil!
 
+
+
 ![Snake animation](https://github.com/rhaniel99/rhaniel99/blob/output/github-contribution-grid-snake-dark.svg)
 
-<p align="left">
+<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rhaniel99" />
 </p>  
- 
-<p align="left">
-<a href="https://github.com/rhaniel99">
-  <img src="https://github.com/rhaniel99/rhaniel99/blob/main/github-metrics.svg"/>
-</a>
-</p>
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
-
-#### 👉   _[Statistics](https://github.com/anuraghazra/github-readme-stats) ➕  [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ➕  [Snake animation](https://github.com/Platane/snk) ➕  [Metrics](https://github.com/marketplace/actions/metrics-embed)_
