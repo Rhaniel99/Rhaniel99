@@ -22,8 +22,8 @@ Além disso, você pode verificar meus repositórios aqui no GitHub para ver alg
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaniel99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaniel99&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaniel99&locale=pt-br&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaniel99&locale=pt-br&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ---
