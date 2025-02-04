@@ -22,8 +22,8 @@ Além disso, você pode verificar meus repositórios aqui no GitHub para ver alg
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaniel99&locale=pt-br&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaniel99&locale=pt-br&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaniel99&locale=pt-br&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaniel99&locale=pt-br&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
@@ -36,13 +36,13 @@ Além disso, você pode verificar meus repositórios aqui no GitHub para ver alg
 
 ## 🏆 Conquistas no GitHub  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rhaniel99&locale=pt-br&theme=radical&no-bg=true&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rhaniel99&locale=pt-br&theme=tokyonight&no-bg=true&no-frame=true)
 
 ---
 
 ## 🔥 Projetos em Destaque  
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=rhaniel99&locale=pt-br&repo=AEMINA&theme=radical)](https://github.com/Rhaniel99/AEMINA)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=rhaniel99&locale=pt-br&repo=AEMINA&theme=tokyonight)](https://github.com/Rhaniel99/AEMINA)
 
 ---
 
