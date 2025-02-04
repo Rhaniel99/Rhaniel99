@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Olá! Sou Rhaniel, um entusiasta da tecnologia apaixonado por desenvolvimento de software. Tenho experiência em diversas tecnologias e estou constantemente buscando aprender e expandir meu conhecimento. Abaixo estão algumas das áreas em que tenho experiência:
+Oi, eu sou o Rhaniel! Sou um apaixonado por tecnologia e desenvolvimento de software. Sempre estou explorando novas tecnologias e buscando aprender mais para expandir meus conhecimentos. Aqui estão algumas das áreas em que tenho experiência:
 
 ### Linguagens e Ferramentas 🛠
 
