@@ -54,9 +54,8 @@ Além disso, você pode verificar meus repositórios aqui no GitHub para ver alg
 
 ## 📬 Entre em Contato  
 
-📧 **Email:** example@email.com  
-💼 **LinkedIn:** [linkedin.com/in/rhaniel99](https://linkedin.com/in/rhaniel99)  
-🐦 **Twitter:** [@rhaniel99](https://twitter.com/rhaniel99)  
+📧 **Email:** rhanielmonteiro.13@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/rhaniel99](https://www.linkedin.com/in/rhaniel-monteiro-b63838235/)  
 
 ---
 
