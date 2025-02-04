@@ -30,19 +30,19 @@ Além disso, você pode verificar meus repositórios aqui no GitHub para ver alg
 
 ## 📈 Gráfico de Atividades  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhaniel99&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhaniel99&locale=pt-br&theme=react-dark)
 
 ---
 
 ## 🏆 Conquistas no GitHub  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rhaniel99&theme=radical&no-bg=true&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rhaniel99&locale=pt-br&theme=radical&no-bg=true&no-frame=true)
 
 ---
 
 ## 🔥 Projetos em Destaque  
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=rhaniel99&repo=nome-do-repo&theme=radical)](https://github.com/rhaniel99/nome-do-repo)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=rhaniel99&locale=pt-br&repo=AEMINA&theme=radical)](https://github.com/Rhaniel99/AEMINA)
 
 ---
 
