@@ -13,7 +13,7 @@ Olá! Sou Rhaniel, um entusiasta da tecnologia apaixonado por desenvolvimento de
 Além disso, você pode verificar meus repositórios aqui no GitHub para ver alguns dos projetos em que tenho trabalhado recentemente. Obrigado por visitar o meu perfil!
 
 <a href="https://github.com/rhaniel99/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rhaniel99&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rhaniel99&locale=pt-br&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/rhaniel99/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaniel99&locale=pt-br&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
