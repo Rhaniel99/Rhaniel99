@@ -1,22 +1,65 @@
-# Bem-vindo ao meu perfil do GitHub!
+# 👋 Bem-vindo ao meu perfil do GitHub!
 
-Oi, eu sou o Rhaniel! Sou um apaixonado por tecnologia e desenvolvimento de software. Sempre estou explorando novas tecnologias e buscando aprender mais para expandir meus conhecimentos. Aqui estão algumas das áreas em que tenho experiência:
+Oi, eu sou o **Rhaniel**! Sou um apaixonado por tecnologia e desenvolvimento de software. Sempre estou explorando novas tecnologias e buscando aprender mais para expandir meus conhecimentos.
 
-### Linguagens e Ferramentas 🛠
+## 🚀 Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![NodeJS](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs) ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</div>
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+---
 
 Além disso, você pode verificar meus repositórios aqui no GitHub para ver alguns dos projetos em que tenho trabalhado recentemente. Obrigado por visitar o meu perfil!
 
-<a href="https://github.com/rhaniel99/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rhaniel99&locale=pt-br&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rhaniel99/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaniel99&locale=pt-br&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</a>
+## 📊 Estatísticas do GitHub  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaniel99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaniel99&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+---
+
+## 📈 Gráfico de Atividades  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhaniel99&theme=react-dark)
+
+---
+
+## 🏆 Conquistas no GitHub  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rhaniel99&theme=radical&no-bg=true&no-frame=true)
+
+---
+
+## 🔥 Projetos em Destaque  
+
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=rhaniel99&repo=nome-do-repo&theme=radical)](https://github.com/rhaniel99/nome-do-repo)
+
+---
+
+## 🎵 Ouvindo no Spotify  
+
+![Spotify](https://novatorem-rhaniel99.vercel.app/api/spotify)
+
+---
+
+## 📬 Entre em Contato  
+
+📧 **Email:** example@email.com  
+💼 **LinkedIn:** [linkedin.com/in/rhaniel99](https://linkedin.com/in/rhaniel99)  
+🐦 **Twitter:** [@rhaniel99](https://twitter.com/rhaniel99)  
+
+---
+
+⭐ **Se gostou do meu perfil, considere deixar uma estrela nos meus repositórios!** ⭐  
 
 ![Snake animation](https://github.com/rhaniel99/rhaniel99/blob/output/github-contribution-grid-snake-dark.svg)
