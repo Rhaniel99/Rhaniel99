@@ -16,7 +16,7 @@ Além disso, você pode verificar meus repositórios aqui no GitHub para ver alg
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rhaniel99&theme=tokyonight" />
 </a>
 <a href="https://github.com/rhaniel99/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhaniel99&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaniel99&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 ![Snake animation](https://github.com/rhaniel99/rhaniel99/blob/output/github-contribution-grid-snake-dark.svg)
