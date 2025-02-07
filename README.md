@@ -43,7 +43,7 @@ Além disso, você pode verificar meus repositórios aqui no GitHub para ver alg
 ## 🔥 Projetos em Destaque  
 
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=rhaniel99&locale=pt-br&repo=AEMINA&theme=tokyonight)](https://github.com/Rhaniel99/AEMINA)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=rhaniel99&locale=pt-br&show_owner=true&repo=Marc_Hub&theme=tokyonight)](https://github.com/Rhaniel99/marc_hub)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=rhaniel99&locale=pt-br&repo=Marc_Hub&theme=tokyonight)](https://github.com/Rhaniel99/marc_hub)
 
 ---
 
